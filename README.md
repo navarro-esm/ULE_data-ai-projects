@@ -4,6 +4,7 @@ This repository contains materials for the course **Projects in Data Engineering
 
 ## Instructor
  Andrés Navarro
+ 
  Assistant professor of Applied Physics.
 
 ## Repository Structure
