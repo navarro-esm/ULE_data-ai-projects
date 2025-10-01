@@ -1,6 +1,6 @@
 # Projects in Data Engineering and Artificial Intelligence
 
-This repository contains materials for the course **Projects in Data Engineering and Artificial Intelligence**, part of the fourth year of the **Bachelor's Degree in Data Engineering and Artificial Intelligence** at the **University of León**.
+This repository contains materials for the course **Projects in Data Engineering and Artificial Intelligence**, part of the fourth year of the **Bachelor's Degree in Data Engineering and Artificial Intelligence** at the **Universidad de León**.
 
 ## Instructor
  Andrés Navarro
