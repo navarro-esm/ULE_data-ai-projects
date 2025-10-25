@@ -4,7 +4,7 @@ This repository contains materials for the course **Projects in Data Engineering
 
 ## Instructor
  Andrés Navarro,
- assistant professor of Applied Physics.
+ Assistant Professor of Applied Physics.
  https://orcid.org/0000-0002-2032-7380
 
 ## Repository Structure
