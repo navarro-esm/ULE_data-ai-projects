@@ -3,8 +3,8 @@
 This repository contains materials for the course **Projects in Data Engineering and Artificial Intelligence**, part of the fourth year of the **Bachelor's Degree in Data Engineering and Artificial Intelligence** at the **Universidad de León**.
 
 ## Instructor
- Andrés Navarro
- Assistant professor of Applied Physics.
+ Andrés Navarro,
+ assistant professor of Applied Physics.
  https://orcid.org/0000-0002-2032-7380
 
 ## Repository Structure
