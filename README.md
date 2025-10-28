@@ -20,4 +20,6 @@ All materials are shared under the **Creative Commons Attribution-NonCommercial-
 ## Participation
 
 This course is developed within the framework of the ENVIHEI Project, co-funded by the European Union through the Erasmus+ programme.
-<img width="200" height="200" alt="Logo ENVIHEI+Co-funded" src="https://github.com/user-attachments/assets/5c4e0e91-a2b5-4f93-965e-2498482e228b" />
+
+
+<img width="200" height="200" alt="envihei" src="https://github.com/user-attachments/assets/a1582249-c557-4984-bf11-eff3d5fb241c" />
