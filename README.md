@@ -1,4 +1,4 @@
-# Projects in Data Engineering and Artificial Intelligence
+# Climate Data Science Projects in Data Engineering and AI 
 
 This repository contains materials for the course **Projects in Data Engineering and Artificial Intelligence**, part of the fourth year of the **Bachelor's Degree in Data Engineering and Artificial Intelligence** at the **Universidad de León**.
 
