@@ -16,3 +16,8 @@ This repository contains materials for the course **Projects in Data Engineering
 ## License
 
 All materials are shared under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license. See the LICENSE file for details.
+
+## Participation
+
+This course is developed within the framework of the ENVIHEI Project, co-funded by the European Union through the Erasmus+ programme.
+<img width="200" height="200" alt="Logo ENVIHEI+Co-funded" src="https://github.com/user-attachments/assets/5c4e0e91-a2b5-4f93-965e-2498482e228b" />
