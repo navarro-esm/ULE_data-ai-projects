@@ -2,6 +2,11 @@
 
 🔗 **Repository**: [calejs00/pid](https://github.com/calejs00/pid)
 
+
+📍 **Presentation**:
+[presentacionPID_PV.pdf](https://github.com/user-attachments/files/23886142/presentacionPID_PV.pdf)
+
+
 📍 **Visualization Preview**:
 Solar Potential Clustering Map
 
