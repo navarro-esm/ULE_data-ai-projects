@@ -2,6 +2,10 @@
 
 🔗 **Repository**: [SergioAlvesMar5/CMIP6_Climate_Classification_IvanFernandez_SergioAlves](https://github.com/SergioAlvesMar5/CMIP6_Climate_Classification_IvanFernandez_SergioAlves/blob/main/README.md)
 
+📍 **Presentation**:
+[ProyectoOsos.pdf](https://github.com/user-attachments/files/24076793/ProyectoOsos.pdf)
+
+
 📍 **Visualization Preview**:
 World climates for Bear distribution
 
